@@ -84,9 +84,9 @@ Sou Analista de Teste QA com experiência em automação e garantia da qualidade
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- Cypress avançado  
-- Testes de performance com k6  
-- Integração de testes em pipelines CI/CD (GitHub Actions)
+- Teste de segurança
+- Testes segurança servidor linux
+- Pentest teste de penetração
 
 ---
 
