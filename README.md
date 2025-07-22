@@ -57,26 +57,6 @@ Sou Analista de Teste QA com experiência em automação e garantia da qualidade
   <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSamueldesousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200" />
 </div>
 
----
-
-## 🛠️ Minhas Ferramentas & APIs em Destaque
-
-<div align="left">
-  <!-- Automação -->
-  <img alt="Cypress" title="Cypress" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
-  <img alt="Selenium" title="Selenium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img alt="Appium" title="Appium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" />
-  
-  <!-- APIs -->
-  <img alt="Postman" title="Postman" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img alt="Newman" title="Newman" width="40" src="https://raw.githubusercontent.com/abhijith-neo/postman-newman-icon/master/newman-icon.svg" />
-  <img alt="Swagger" title="Swagger" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-  
-  <!-- Outras ferramentas úteis -->
-  <img alt="Jira" title="Jira" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Azure DevOps" title="Azure DevOps" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-</div>
 
 ---
 
