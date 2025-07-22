@@ -32,7 +32,6 @@ Sou Analista de Teste QA com experiência em automação e garantia da qualidade
 
 ## 🚀 Ferramentas em Destaque
 
-
 <div align="left">
   <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
   <img alt="Cypress" title="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
