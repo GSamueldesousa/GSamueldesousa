@@ -18,34 +18,34 @@ Sou Analista de Teste QA com experiência em automação e garantia da qualidade
 
 | Categoria           | Tecnologias e Ferramentas |
 |---------------------|----------------------------|
-| **Testes**          | Testes Manuais, Testes Automatizados, Testes Funcionais, Testes de Regressão, Testes de Integração, Testes de API, Testes E2E Testes de Acessibilidade, Testes Exploratórios, QA |
-| **Automação**       | Selenium, Cypress, Appium OIS e ANDROID STUDIO|
-| **APIs**            | Postman,Newman , Swagger |
+| **Testes**          | Testes Manuais, Testes Automatizados, Testes Funcionais, Testes de Regressão, Testes de Integração, Testes de API, Testes E2E, Testes de Acessibilidade, Testes Exploratórios, QA |
+| **Automação**       | Selenium, Cypress, Appium, OIS, Android Studio |
+| **APIs**            | Postman, Newman, Swagger |
 | **Gerenciamento**   | Jira, Azure DevOps |
 | **Controle de Versão** | Git |
 | **Banco de Dados**  | SQL, MySQL |
 | **Metodologias**    | Scrum, Kanban, BDD, CI/CD |
 | **Linguagens**      | JavaScript, Python, Java |
-| **Sistemas**        | Segurança em Server Linux |
+| **Sistemas**        | Segurança em Servidor Linux |
 
 ---
 
 ## 🚀 Ferramentas em Destaque
 
 <div align="left">
-  <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img alt="Cypress" title="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
-  <img alt="Appium" title="Appium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" />
-  <img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img alt="Swagger" title="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-  <img alt="Jira" title="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img alt="Azure DevOps" title="Azure DevOps" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Selenium" title="Selenium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+  <img alt="Cypress" title="Cypress" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
+  <img alt="Appium" title="Appium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appium/appium-original.svg" />
+  <img alt="Postman" title="Postman" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Swagger" title="Swagger" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+  <img alt="Jira" title="Jira" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img alt="Azure DevOps" title="Azure DevOps" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Linux" title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ---
@@ -65,8 +65,8 @@ Sou Analista de Teste QA com experiência em automação e garantia da qualidade
   UNINTER – Centro Universitário Internacional  
   *04/2022 – 12/2024*
 
-- **Curso: Segurança em Servidor Linux**  
-  SENAC
+- **Segurança em Servidor Linux**  
+  SENAC  
   *Concluído em 2025*
 
 ---
@@ -84,8 +84,8 @@ Sou Analista de Teste QA com experiência em automação e garantia da qualidade
 ## 🌱 Atualmente Estou Aprendendo
 
 - Teste de segurança
-- Testes segurança servidor linux
-- Pentest teste de penetração
+- Segurança em servidores Linux
+- Pentest (Teste de penetração)
 
 ---
 
